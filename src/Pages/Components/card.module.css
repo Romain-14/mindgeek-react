@@ -1,0 +1,12 @@
+.price {
+    color: var(--primary);
+    text-align: center;
+}
+
+.ctn {
+    padding: 1.5rem 0;
+}
+
+.ctn p {
+    text-align: center;
+}

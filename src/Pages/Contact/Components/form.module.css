@@ -1,0 +1,32 @@
+.contact {
+    display: flex;
+	flex-direction: column;
+	width: 350px;
+	padding: 5px;
+	margin: auto;
+	border: 1px solid;
+	border-radius: 10px;
+}
+
+.contact div {
+	display: flex;
+	margin: 10px 0;
+}
+.contact label {	
+	width: 35%;
+}
+.contact input[type="text"],
+.contact textarea{	
+	width: 65%;
+}
+
+.contact input[type="submit"]{
+	margin: 10px 0;
+	padding: 10px;
+	text-transform: uppercase;
+	color: var(--body-bg);
+	font-weight: bold;
+	font-size: 1.8rem;
+	background-color: var(--primary);
+	border-radius: 10px;
+}

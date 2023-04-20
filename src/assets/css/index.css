@@ -1,0 +1,33 @@
+@import "./variable.css";
+@import "./heading.css";
+@import "./icon.css";
+
+/* GLOBAL */
+
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: var(--body-bg);
+    font-size: 1.6rem;
+    color: var(--body-color);
+    font-family: var(--font-text);
+    line-height: 1.4;
+}
+
+p {
+    margin: 1rem;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}

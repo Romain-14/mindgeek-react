@@ -1,0 +1,90 @@
+{
+    "solution": {
+        "title": "Notre solution en 3 points",
+        "card": [
+            {
+                "title": "Configuration",
+                "content": [
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    }
+                ]
+            },
+            {
+                "title": "Monitoring",
+                "content": [
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    }
+                ]
+            },
+            {
+                "title": "Sauvegarde",
+                "content": [
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    }
+                ]
+            }
+        ]
+    },
+    "hoisting": {
+        "title": "Choisissez votre style d'hébergement",
+        "card": [
+            {
+                "title": "Serveur mutualisé",
+                "content": [
+                    {
+                        "classCSS": "price",
+                        "text": "9,99€ / mois"
+                    },
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    },
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    }
+                ]
+            },
+            {
+                "title": "Serveur dédié",
+                "content": [
+                    {
+                        "classCSS": "price",
+                        "text": "19,99€ / mois"
+                    },
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    },
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    }
+                ]
+            },
+            {
+                "title": "Serveur Cloud",
+                "content": [
+                    {
+                        "classCSS": "price",
+                        "text": "29,99€ / mois"
+                    },
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    },
+                    {
+                        "classCSS": null,
+                        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis qui ipsum maxime architecto illum nam."
+                    }
+                ]
+            }
+        ]
+    }
+}

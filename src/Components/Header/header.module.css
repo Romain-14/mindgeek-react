@@ -1,0 +1,21 @@
+
+.logo {
+    margin: 3rem auto;
+}
+
+.nav {
+    text-align: center;
+}
+
+.nav a {
+    display: block;
+    margin: 0.5rem;
+    padding: 1rem;
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.nav a:hover svg,
+.nav a:hover {
+    color: var(--secondary);
+}
